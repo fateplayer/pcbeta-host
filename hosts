@@ -9,3 +9,15 @@
 123.6.13.61 cdn.pcbeta.attachment.inimc.com
 123.6.13.61 cdn.pcbeta.static.inimc.com
 123.6.13.61 cdn.pcbeta.css.inimc.com
+
+# ccleaner
+127.0.0.1 license.piriform.com
+127.0.0.1 www.license.piriform.com
+127.0.0.1 speccy.piriform.com
+127.0.0.1  www.speccy.piriform.com
+127.0.0.1 recuva.piriform.com
+127.0.0.1 www.recuva.piriform.com
+127.0.0.1 defraggler.piriform.com
+127.0.0.1 www.defraggler.piriform.com
+127.0.0.1 ccleaner.piriform.com
+127.0.0.1 www.ccleaner.piriform.com
